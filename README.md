@@ -18,7 +18,7 @@ Momentum is a productivity app that helps users overcome procrastination by brea
 
 ## Demo
 
-[Live Demo](https://momentum-5min.netlify.app)
+https://momentum-start-with-5-minutes.vercel.app/
 
 ### Screenshots
 
