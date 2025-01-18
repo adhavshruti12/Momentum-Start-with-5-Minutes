@@ -22,7 +22,7 @@ https://momentum-start-with-5-minutes.vercel.app/
 
 ### Screenshots
 
-![Welcome Screen](screenshots/welcome.png)
+![Welcome Screen](/img1.png)
 *Personalized welcome screen for new users*
 
 ![Main Dashboard](screenshots/dashboard.png)
