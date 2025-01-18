@@ -25,7 +25,7 @@ https://momentum-start-with-5-minutes.vercel.app/
 ![Welcome Screen](/img2.png)
 *Personalized welcome screen for new users*
 
-![Main Dashboard](/img2.png)
+![Main Dashboard](/img1.png)
 *Task management and progress tracking interface*
 
 
